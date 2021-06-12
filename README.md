@@ -10,6 +10,12 @@ You can click the Preview link to take a look at your changes.
 --->
 <html>
 <body>
-Hellow world
+Hellow world<br>
+<h1 style="color:red;">Application Form     </h1>
+<form>
+Name:
+<inputtype="text ">
+
+</form>
 </html>
 </body>
