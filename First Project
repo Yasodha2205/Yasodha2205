@@ -3,6 +3,7 @@
 <body>
 <form>
 <h1 style="color:red;"> Application Form</h1>
+Name:
 <input type="text">
 </form>
 </body>
