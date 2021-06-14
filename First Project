@@ -1,1 +1,9 @@
 
+<html>
+<body>
+<form>
+<h1 style="color:red;"> Application Form</h1>
+<input type="text">
+</form>
+</body>
+</html>
