@@ -3,11 +3,11 @@
 <body>
 <form>
 <h1 style="color:red;"> Application Form</h1>
-Name:<br>
-<input type="text"><br>
-Distric<br>
+Name:
 <input type="text">
-Address <br>
+Distric:
+<input type="text">
+Address: 
 <input type ="text">
 Gender:
 <input type="radio ">
