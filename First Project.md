@@ -1,8 +1,5 @@
 
-<html>
-<body>
-<form>
-<h1 style="color:red;"> Application Form</h1>
+<h1 style="color:red;"> <u>Application Form</u></h1>
 Name:
 <input type="text">
 Distric:
@@ -16,3 +13,4 @@ Gender:
 </form>
 </body>
 </html>
+🖕🖕
