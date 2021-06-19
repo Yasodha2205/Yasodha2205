@@ -1,12 +1,14 @@
-
+<html>
+<body>
+<form>
 <h1 style="color:red;"> <u>Application Form</u></h1>
-Name:
+Name:<br>
 <input type="text">
-Distric:
+Distric:<br>
 <input type="text">
-Address: 
+Address: <br>
 <input type ="text">
-Gender:
+Gender:<br>
 <input type="radio ">
 
 <input type= "check box">
