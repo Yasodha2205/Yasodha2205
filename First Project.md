@@ -10,8 +10,8 @@ Address: <br>
 <input type ="text">
 Gender:<br>
 <input type="radio ">
-
-<input type= "check box">
+Subjects
+<input type= "check box" value="Science">
 </form>
 </body>
 </html>
