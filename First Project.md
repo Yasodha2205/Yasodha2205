@@ -12,6 +12,7 @@ Gender:<br>
 <input type="radio ">
 Subjects
 <input type= "check box" value="Science">
+😊😊😊
 </form>
 </body>
 </html>
